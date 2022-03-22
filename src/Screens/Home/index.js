@@ -1,7 +1,6 @@
 import { Box, Button, Container, Typography } from "@mui/material";
 import React from "react";
 import ResponsiveAppBar from "../../Components/AppBar";
-import homeImage from "../../data/images/home.jpg";
 import Footer from "./Footer";
 import Services from "./Services";
 import StoryComponent from "./StoryComponent";
